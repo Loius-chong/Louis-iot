@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Louis-iot
+- 👋 Hi, I’m @Louis
 - 👀 I’m interested in 3d reconstruction and AR navigation
 - 🌱 I’m currently learning deeplearning and slam
 - 💞️ I’m looking to collaborate on 3d reconstruction in indoor environment
